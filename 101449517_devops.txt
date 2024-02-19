@@ -1,0 +1,2 @@
+Are you ready to embark on a journey into the world of DevOps? 
+COMP 2156 - DevOps course at George Brown College offers a comprehensive curriculum designed to equip students with the skills and knowledge needed to thrive in the ever-evolving field of DevOps. From agile methodologies to cloud computing and infrastructure automation, students learn how to implement DevOps practices to streamline software development processes and drive business innovation. Join us and become a catalyst for change in the world of technology.
